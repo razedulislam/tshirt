@@ -1,0 +1,14 @@
+nav a {
+    text-decoration: none;
+    color: white;
+}
+nav ul {
+    list-style-type: none;
+    display: flex;
+}
+nav li {
+    margin-right: 20px;
+}
+.header {
+    background-color: rgb(0, 0, 0);
+}

@@ -1,0 +1,15 @@
+.tshirt-container {
+    border: 2px solid ghostwhite;
+    margin: 10px;
+    text-align: center;
+}
+.cart-img {
+    width: 250px;
+    height: 320px;
+}
+.cart-btn {
+    border: none;
+    background-color: goldenrod;
+    font-size: 17px;
+    border-radius: 5px;
+}

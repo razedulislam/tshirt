@@ -1,0 +1,16 @@
+.grandpa div,
+.grandpa {
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    border: 2px solid red;
+}
+.grandpa div {
+    padding: 10px;
+    margin: 10px;
+}
+
+.handleBtn {
+    width: 60px;
+    height: 40px;
+}
